@@ -6,14 +6,14 @@ Welcome to the Temporal Labs Master Guides repository. This repository contains 
 
 The Nested Refinement Architecture (NRA) is a multi-layered framework designed to progressively gather and refine detailed information about individuals, roles, departments, industries, and organizations. This repository contains master guides for each layer, providing a structured approach to data collection and analysis, enabling sophisticated and personalized AI model development.
 
-## What is the Nested Refinement Architecture?
+What is the Nested Refinement Architecture?
 
 The Nested Refinement Architecture (NRA) is a system that helps to create detailed AI models by refining information at multiple levels. Each level adds more detail and specificity, allowing the AI to understand and perform specific tasks or roles within various contexts accurately. This structured approach ensures that the AI operates effectively within its intended scope.
 
 This parameters list is designed to capture and refine information at various levels, ensuring comprehensive profiles for generative and predictive task refinement. 
 
 Level 1: Lead Information (CRM Input)
-##These parameters help capture basic information about potential leads for initial contact and follow-up.
+These parameters help capture basic information about potential leads for initial contact and follow-up.
 Name
 Email Address
 Phone Number
@@ -27,7 +27,7 @@ Interest Level (High, Medium, Low)
 Notes (Any initial observations or comments)
 
 Level 2: Client Information
-##These parameters provide a deeper understanding of clients, capturing more detailed information during onboarding and signing.
+These parameters provide a deeper understanding of clients, capturing more detailed information during onboarding and signing.
 Client ID
 Contact Preferences (Email, Phone, In-Person)
 Business Goals and Objectives
