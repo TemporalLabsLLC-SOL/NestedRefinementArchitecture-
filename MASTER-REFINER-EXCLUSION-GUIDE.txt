@@ -1,0 +1,88 @@
+Exclusion Model
+Purpose:
+The Exclusion Model will systematically filter out irrelevant, low-priority, or non-qualifying data, ensuring that Temporal Labs focuses resources on the most promising leads and projects.
+
+Structure and Parameters:
+Industry-Based Exclusions
+
+Purpose: Exclude industries that are not aligned with Temporal Labs' strategic focus.
+Criteria: Industries that do not fit Temporal Labs' service offerings or market focus.
+Parameters:
+Industry Codes (NAICS/SIC): Specific industry codes to exclude.
+Industry Names: Descriptions of industries to exclude.
+Sector Exclusions: Broader sectors to avoid (e.g., agriculture, mining).
+Geography-Based Exclusions
+
+Purpose: Exclude regions that are not within Temporal Labs' operational focus or where legal, logistical, or market conditions are unfavorable.
+Criteria: Non-targeted geographic locations.
+Parameters:
+Countries: List of countries to exclude.
+Regions/States: Specific regions or states within a country to exclude.
+Cities: Cities that do not align with operational goals.
+Budget-Based Exclusions
+
+Purpose: Exclude potential clients that do not meet the minimum budgetary requirements for Temporal Labs’ services.
+Criteria: Insufficient budget for services.
+Parameters:
+Minimum Budget Threshold: The lowest acceptable budget for engagement.
+Currency Considerations: Ensure budgets are converted and compared accurately.
+Interest-Based Exclusions
+
+Purpose: Exclude leads that demonstrate low interest or engagement with Temporal Labs’ offerings.
+Criteria: Low engagement or interest levels.
+Parameters:
+Engagement Metrics: Email open rates, click-through rates, response rates.
+Interest Levels: Categorized as High, Medium, Low based on interactions.
+Company Size Exclusions
+
+Purpose: Exclude companies that are too small or too large for Temporal Labs' typical client profile.
+Criteria: Non-qualifying company sizes.
+Parameters:
+Employee Count: Minimum and maximum number of employees.
+Annual Revenue: Minimum and maximum revenue thresholds.
+Previous Interaction Exclusions
+
+Purpose: Exclude leads or clients with negative previous interactions or history.
+Criteria: Poor interaction history.
+Parameters:
+Previous Engagements: Record of past engagements.
+Interaction Quality: Ratings or feedback from past interactions.
+Resolution Status: Whether past issues were resolved satisfactorily.
+Project Type Exclusions
+
+Purpose: Exclude project types that do not align with Temporal Labs’ capabilities or strategic focus.
+Criteria: Non-aligned project types.
+Parameters:
+Project Categories: Types of projects to avoid (e.g., projects requiring hardware development if Temporal Labs focuses on software).
+Technical Requirements: Exclude projects requiring technologies not supported by Temporal Labs.
+Implementation Steps:
+Data Collection
+
+Collect relevant data for each exclusion parameter from CRM systems, market research, and internal records.
+Automated Filtering
+
+Use AI and machine learning algorithms to automate the exclusion process based on defined parameters.
+Regular Updates
+
+Continuously update exclusion parameters based on new data, market trends, and strategic shifts.
+Validation
+
+Test the exclusion model on historical data to ensure accuracy and relevance.
+Validate the model periodically to refine and improve its effectiveness.
+Integration
+
+Integrate the exclusion model into CRM and lead management systems to automate the filtering process.
+Example of Exclusion Model in Action:
+Scenario:
+Temporal Labs receives a lead from a small startup in the agricultural sector located in a remote region with a limited budget. The lead engagement metrics show low interest, and the company has a history of unresolved issues with previous service providers.
+
+Application of Exclusion Model:
+Industry-Based Exclusions: Agricultural sector is excluded.
+Geography-Based Exclusions: Remote region excluded.
+Budget-Based Exclusions: Budget below the minimum threshold.
+Interest-Based Exclusions: Low engagement metrics.
+Company Size Exclusions: Too small based on employee count and revenue.
+Previous Interaction Exclusions: Unresolved issues in past interactions.
+Project Type Exclusions: Not aligned with Temporal Labs’ focus on AI and software solutions.
+Result:
+The lead is automatically filtered out, saving resources and ensuring Temporal Labs focuses on more promising opportunities.
