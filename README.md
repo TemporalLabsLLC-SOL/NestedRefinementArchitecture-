@@ -2,6 +2,8 @@
 
 Welcome to the Temporal Labs Master Guides repository. This repository contains comprehensive guides for implementing AI using the Nested Refinement Architecture (NRA) framework developed by Temporal Labs LLC.
 
+OUR GPT CAN HELP YOU CREATE TAILORED MASTERS - https://chatgpt.com/share/459c1298-1e31-4460-9739-00116d1d017b
+
 ## Overview
 
 The Nested Refinement Architecture (NRA) is a multi-layered framework designed to progressively gather and refine detailed information about individuals, roles, departments, industries, and organizations. This repository contains master guides for each layer, providing a structured approach to data collection and analysis, enabling sophisticated and personalized AI model development.
