@@ -2,7 +2,6 @@ This parameters list is designed to capture and refine information at various le
 
 Level 1: Lead Information (CRM Input)
 These parameters help capture basic information about potential leads for initial contact and follow-up.
-
 Name
 Email Address
 Phone Number
@@ -14,9 +13,9 @@ Website URL
 Lead Source (How they found you)
 Interest Level (High, Medium, Low)
 Notes (Any initial observations or comments)
+
 Level 2: Client Information
 These parameters provide a deeper understanding of clients, capturing more detailed information during onboarding and signing.
-
 Client ID
 Contact Preferences (Email, Phone, In-Person)
 Business Goals and Objectives
@@ -28,6 +27,7 @@ Decision-Making Process
 Preferred Communication Frequency
 Previous Interactions and History
 Contract Details and Terms
+
 Levels 3 to 11: Refiner Parameters
 These parameters dive deeper into various aspects of the client and their needs, allowing for detailed personalization and refined AI automation.
 
